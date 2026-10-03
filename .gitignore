@@ -104,3 +104,6 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+Ejercicio1_Game2D/ProjectSettings/ProjectSettings.asset
+Ejercicio1_Game2D/ProjectSettings/ShaderGraphSettings.asset
+Ejercicio1_Game2D/ProjectSettings/EditorBuildSettings.asset
